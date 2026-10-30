@@ -4,7 +4,7 @@ pkgver=1.0
 pkgrel=2
 pkgdesc="Nexus Linux package signing keys"
 arch=(any)
-url="https://github.com/nexuslinux-os/NexusLinux"
+url="https://github.com/Nexus-Linux-Official/nexus-keyring"
 license=(GPL-3.0-or-later)
 install=nexus-keyring.install
 
